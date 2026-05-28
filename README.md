@@ -112,28 +112,20 @@ Approximately **35.6% of total revenue is lost**, representing a major operation
 #### 2. Spoilage is the Main Driver of Losses
 About **92.99% of total revenue loss (₦429.8M)** is caused by spoilage, significantly outweighing transport-related losses.
 
-#### 3. Losses are Concentrated in Central and West Regions
+#### 3. Central & West Regions Experience the Highest Losses
 The **Central (₦102M) and West (₦101M)** regions experience the highest revenue losses, making them priority areas for operational intervention.
 
-#### 4. Transport Losses are Relatively Low
-Transport losses account for only **7.01% (₦32.4M)** of total losses, suggesting transportation is not the primary operational challenge.
-
-#### 5. Storage Capacity is Not the Main Constraint
-Storage utilization averages around **83% across regions**, indicating that losses are more likely caused by inefficient storage practices rather than insufficient capacity.
-
-#### 6. Strong Profitability with Opportunities to Scale Best Practices
-Profit margins exceed **86%** across crops and regions, while top-performing farmers achieve margins above **90%**, highlighting opportunities to scale successful practices.
+#### 4. Strong Profitability Despite Operational Inefficiencies
+Profit margins exceed **86% across crops and regions**, indicating strong profitability potential if operational losses are reduced.
 
 ## 🚀 Recommendations and Implemantation Plan
 
-| Action | Timeline | Key Stakeholders | Key Steps | Expected Impact |
-|---|---|---|---|---|
-| Establish a loss monitoring system | 0–3 Months | Data Team, Operations Team | Define loss KPIs, build tracking dashboard, review losses regularly | Improved visibility into losses and faster decision-making |
-| Improve post-harvest handling practices | 0–3 Months | Extension Officers, Farmer Cooperatives | Train farmers on drying, sorting, packaging, and proper handling techniques | Reduction in spoilage losses and improved product quality |
-| Implement targeted interventions in Central & West regions | 0–3 Months | Regional Managers, Logistics Team | Deploy pilot programs and monitor loss trends in high-loss regions | Significant reduction in regional revenue losses |
-| Optimize transport operations in high-risk zones | 3–6 Months | Logistics Team, Transport Partners | Improve routing and scheduling in regions with higher transport losses | Sustained low transport loss rates and improved efficiency |
-| Improve storage efficiency and inventory management | 3–6 Months | Operations Team, IT Team | Introduce inventory tracking and reduce storage duration | Reduced spoilage and better stock management |
-| Scale best practices from top-performing farmers | 6–12 Months | Data Team, Field Officers, Trainers | Identify top farmers and replicate their methods across the network | Increased profitability and operational efficiency |
+| Recommendation | Timeline | Key Steps | Expected Impact |
+|---|---|---|---|
+| Improve post-harvest handling practices | 0–3 Months | Train farmers on better drying, sorting, packaging, and storage techniques | Reduced spoilage losses and improved product quality |
+| Prioritize interventions in Central & West regions | 0–3 Months | Deploy targeted operational improvements and monitor regional loss trends | Significant reduction in regional revenue losses |
+| Improve storage efficiency and inventory management | 3–6 Months | Introduce inventory tracking and reduce storage duration | Lower spoilage rates and better stock management |
+| Scale best practices from top-performing farmers | 6–12 Months | Identify and replicate successful farming methods across the network | Increased profitability and operational efficiency |
 
 > The implementation plan prioritizes spoilage reduction, operational efficiency, and the scaling of best practices to improve long-term profitability.
 
@@ -164,9 +156,7 @@ the greatest opportunities for sustainable growth.
 
 ## ✅ Conclusion
 
-The analysis revealed that substantial revenue losses occur across the agricultural value chain, primarily driven by spoilage and operational inefficiencies. 
-Despite these challenges, profitability remains strong across crops and regions, indicating significant potential for growth if losses are reduced.
-By improving post-harvest handling, optimizing storage practices, and scaling successful operational strategies, stakeholders can significantly improve efficiency, 
-reduce waste, and increase long-term profitability.
+The analysis revealed that while the agricultural value chain is highly profitable, substantial revenue is lost due to spoilage and operational inefficiencies. 
+By improving post-harvest handling, optimizing storage practices, and scaling proven best practices, stakeholders can significantly reduce losses and improve long-term profitability and operational performance.
 
 This project demonstrates the value of combining business understanding, data analysis, and visual storytelling to support operational and strategic decision-making.
