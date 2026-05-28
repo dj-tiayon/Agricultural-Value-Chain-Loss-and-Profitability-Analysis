@@ -80,36 +80,29 @@ The dashboard was divided into two pages to create a clear storytelling flow foc
 
 This page focuses on identifying where losses occur across the agricultural value chain and understanding the major drivers of inefficiency.
 
-### Key visuals included:
-- Revenue Loss Breakdown
-- Transport Loss by Region
-- Transport Loss % by Region
-- Storage Utilization by Region
-- Revenue Loss Trend Over Time
+![Dashbaord Page 1: Loss Analysis](https://github.com/dj-tiayon/Agricultural-Value-Chain-Loss-and-Profitability-Analysis/blob/main/Dashboard%20Preview/dashboard_page1.png)
 
-### Purpose:
-- Identify the main sources of revenue loss
-- Highlight high-loss regions
-- Analyze operational inefficiencies
-- Understand seasonal loss patterns
+> Page 1 highlights where operational losses occur and identifies the main drivers of inefficiency.
+
+### Key focus areas:
+- Revenue loss drivers
+- Regional inefficiencies
+- Transport and spoilage losses
+- Revenue Loss Trend Over Time
 
 ### 📈 Page 2 — Profitability & Performance Analysis
 
 This page focuses on evaluating profitability across crops, regions, and farmer groups while identifying opportunities to scale best-performing operations.
 
-### Key visuals included:
-- Top performing Crop by Profit Margin
-- Profit Margin by Crop and Region (Heatmap)
-- Profit Margin by Region
-- Revenue by Region
-- Top Performing Farmers
-- Storage Utilization vs Profitability
+![Dashbaord Page 2: Profitability & Performance Analysis](https://github.com/dj-tiayon/Agricultural-Value-Chain-Loss-and-Profitability-Analysis/blob/main/Dashboard%20Preview/dashboard_page2.png)
 
-### Purpose:
-- Evaluate crop and regional profitability
-- Identify high-performing farmers and regions
-- Analyze operational efficiency
-- Discover scalable best practices
+> Page 2 highlights the most profitable crops, regions, and farmer groups to uncover opportunities for operational optimization and growth.
+
+### Key focus areas:
+- Crop profitability
+- Regional performance
+- Top-performing farmers
+- Operational efficiency
 
 ## 🔍 Key Insights
 
