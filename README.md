@@ -170,9 +170,3 @@ By improving post-harvest handling, optimizing storage practices, and scaling su
 reduce waste, and increase long-term profitability.
 
 This project demonstrates the value of combining business understanding, data analysis, and visual storytelling to support operational and strategic decision-making.
-
-## ⭐ What I Learned
-- How to translate data into business insights
-- The importance of choosing the right visual for the question
-- How to structure analysis for non-technical stakeholders
-- How data can inform real-world decisions in agriculture
